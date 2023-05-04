@@ -9,6 +9,6 @@ Using ImGui in connection with the also new "Channels" node-set will speed up yo
 You'll learn from no other than `untone`, core devvvv, who did most of the heavy lifting of getting ImGui to work in vvvv nicely.
 
 - [Session description](https://thenodeinstitute.org/courses/ss23-vvvv-creating-an-app-from-scratch/)
-- Patches ZIP...
+- [Patches ZIP](https://github.com/nodeinstitute/VVVV-SummerSeason2023/releases/download/v0.0.1/Summer23-CreatingAnAppFromScratch.zip)
 
 
