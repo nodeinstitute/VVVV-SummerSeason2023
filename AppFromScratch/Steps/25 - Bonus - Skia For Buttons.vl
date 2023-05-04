@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" xmlns:r="reflection" Id="Ah8M1QgVf2lNsVMKOlVujQ" LanguageVersion="2023.5.1-0009-gff72e46415" Version="0.128">
+<Document xmlns:p="property" xmlns:r="reflection" Id="QK4J8s35KWhQOYnJjUPkZY" LanguageVersion="2023.5.1-0009-gff72e46415" Version="0.128">
   <NugetDependency Id="IHNLOvlNyziOI5dDIqtXud" Location="VL.CoreLib" Version="2023.5.1-0009-gff72e46415" />
   <Patch Id="CqZmc8Lwnc3PuygMdEcB9f">
     <Canvas Id="LgnhB0FCbSHPJdRiuY7d6P" DefaultCategory="App" CanvasType="FullCategory">
@@ -3707,7 +3707,7 @@
                 <Choice Kind="TypeFlag" Name="Vector2" />
               </p:TypeAnnotation>
             </Pad>
-            <Pad Id="IDmDRngbWtJPQgfHM7DLGb" Comment="Filename" Bounds="548,686,140,15" ShowValueBox="true" isIOBox="true" Value="Assets\1F984.svg">
+            <Pad Id="IDmDRngbWtJPQgfHM7DLGb" Comment="Filename" Bounds="548,686,140,15" ShowValueBox="true" isIOBox="true" Value="..\Assets\1F984.svg">
               <p:TypeAnnotation LastCategoryFullName="IO" LastDependency="VL.CoreLib.vl">
                 <Choice Kind="TypeFlag" Name="Path" />
               </p:TypeAnnotation>
